@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "NutriMate",
+    "slug": "snack-4cfc689d-d33a-40c7-b4ef-fd5f5270a110",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.SyedAbidi.NutriMate"
+    },
+    "android": {
+      "package": "com.SyedAbidi.NutriMate",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#F9F9F9"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4bfafa9c-578b-4869-ab5f-33ad78cff550"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4bfafa9c-578b-4869-ab5f-33ad78cff550"
+    }
+  }
+}
